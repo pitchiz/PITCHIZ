@@ -48,7 +48,7 @@ body {
 
 /*-- Landing Page  --*/
 .home-inner {
-    background-image: url(img/biblio.jpg);
+    background-image: url(../img/biblio.jpg);
 }
 
 .caption {
@@ -155,7 +155,7 @@ h3.heading {
 /*-- Principe section --*/
 
 .fixed {
-    background-image: url(img/micro5.jpeg);
+    background-image: url(../img/micro5.jpeg);
     z-index: -1;
 }
 
@@ -180,7 +180,7 @@ body, html {
 }
 
 .bg {
-  background-image: url("/img/paille2.png");
+  background-image: url(../img/paille2.png);
 
   height: 100%;
 
