@@ -42,7 +42,7 @@ body {
 
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #F3AB41;
+    color: #f5aa41;
 }
 
 
@@ -103,8 +103,8 @@ body {
     padding: .6rem 1.2rem;
     margin: 1rem;
     color: white;
-    background-color: #F3AB41;
-    border-color: #F3AB41;
+    background-color: #f5aa41;
+    border-color: #f5aa41;
 }
 
 .btn-secondary:hover{
@@ -131,13 +131,13 @@ h3.heading {
 .heading-underline {
    width: 3rem;
     height: .2rem;
-    background-color: #F3AB41;
+    background-color: #f5aa41;
     margin: 0 auto 2rem;
 
 }
 
 .feature svg.svg-inline--fa {
-    color: #F3AB41;
+    color: #f5aa41;
 }
 
 .feature h3 {
@@ -213,7 +213,7 @@ blockquote .svg-inline--faa {
 }
 
 .clients-hr {
-    border-top: .05rem solid #F3AB41;
+    border-top: .05rem solid #f5aa41;
 }
 
 /*-- Tarifs section --*/
@@ -224,7 +224,7 @@ blockquote .svg-inline--faa {
 }
 
 .card-title {
-    color: #F3AB41;
+    color: #f5aa41;
  font-weight: 700;
 }
 
@@ -257,7 +257,7 @@ footer svg-inline--fa {
 }
 
 footer svg-inline--fa:hover {
-    color: #F3AB41!important;
+    color: #f5aa41!important;
 }
 
 hr.socket {
