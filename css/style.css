@@ -238,7 +238,7 @@ blockquote .svg-inline--faa {
 /*-- End Tarifs section --*/
 
 /*-- Valeurs section --*/
-new.fixed {
+.background-valeurs {
     background-image: url(../img/cafe.jpg);
     z-index: -1;
 }
@@ -261,7 +261,6 @@ new.fixed {
 .fixed-background p {
     margin-top: 1.5rem;
 }
-
 
 /*-- End Valeurs section --*/
 
