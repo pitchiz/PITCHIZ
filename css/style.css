@@ -238,7 +238,14 @@ blockquote .svg-inline--faa {
 
 /*-- End Tarifs section --*/
 
+/*-- Valeurs section --*/
 
+.fixed2 {
+    background-image: url(../img/cafe.jpg);
+    z-index: -1;
+}
+
+/*-- End of Valeurs section --*/
 
 /*-- Contact section --*/
 
