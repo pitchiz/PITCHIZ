@@ -240,29 +240,9 @@ blockquote .svg-inline--faa {
 
 /*-- Valeurs section --*/
 
-.faxed {
+.fixed2 {
     background-image: url(../img/cafe.jpg);
     z-index: -1;
-}
-
-.dark {
-    background-color: rgba(0,0,0, 0.75);
-    color: white;
-    padding : 7rem 2rem;
-}
-
-.darklight {
-    background-color: white;
-    color: #505962;
-    padding : 7rem 2rem;
-}
-.faxed-background h3 {
-   margin-bottom: 2rem;
-}
-
-
-.faxed-background p {
-    margin-top: 1.5rem;
 }
 
 
