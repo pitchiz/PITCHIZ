@@ -165,6 +165,12 @@ h3.heading {
     padding : 7rem 2rem;
 }
 
+.dark2 {
+    background-color: rgba(0,0,0, 0.50);
+    color: white;
+    padding : 7rem 2rem;
+}
+
 .darklight {
     background-color: white;
     color: #505962;
