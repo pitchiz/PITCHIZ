@@ -241,7 +241,13 @@ blockquote .svg-inline--faa {
 .valeurs {
    background-image: url(../img/cafe.jpg);
    background-attachment: fixed;
-    z-index: -1;
+  z-index: -1;
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
 
