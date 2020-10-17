@@ -165,11 +165,26 @@ h3.heading {
     padding : 7rem 2rem;
 }
 
+.lighter {
+    background-color: rgba(0,0,0, 0.25);
+    color: white;
+    padding : 7rem 2rem;
+}
+
 .darklight {
     background-color: white;
     color: #505962;
     padding : 7rem 2rem;
 }
+
+
+.light {
+    background-color: rgba(0,0,0,0);
+    color: white;
+    padding : 7rem 2rem;
+}
+
+
 .fixed-background h3 {
    margin-bottom: 2rem;
 }
@@ -197,6 +212,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+background-attachment: fixed;
 }
 
 .bgmicro {
@@ -207,6 +223,7 @@ body, html {
   background-position: right;
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .bgcafe {
@@ -217,6 +234,7 @@ body, html {
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .bgblack {
@@ -238,16 +256,6 @@ body, html {
 
 }
 
-.light {
-    background-color: rgba(0,0,0, 0.2);
-    color: white;
-    padding : 7rem 2rem;
-}
-.lightwhite {
-    background-color: rgba(0,0,0,0);
-    color: white;
-    padding : 7rem 2rem;
-}
 
 /*-- End Principe section --*/
 
