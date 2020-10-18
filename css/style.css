@@ -223,7 +223,7 @@ background-attachment: fixed;
 }
 
 .bgmicro {
-  background: url("../img/micro5.jpeg") no-repeat center center fixed; 
+  background: url("../img/micro5.jpeg") no-repeat center right fixed; 
  -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
