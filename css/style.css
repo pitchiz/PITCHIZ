@@ -155,7 +155,7 @@ h3.heading {
 /*-- Principe section --*/
 
 .fixed {
-    background-image: url(../img/micro5.jpeg);
+    background-image: url(../img/micro11.jpg);
     z-index: -1;
 }
 
@@ -224,7 +224,7 @@ background-attachment: fixed;
 
 .bgmicro {
   background-image: url("../img/micro7.jpg");
-
+  height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
